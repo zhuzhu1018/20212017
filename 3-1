@@ -1,0 +1,17 @@
+<!doctype html>   <!--koreaAnthem4.html>
+<html lang="ko">
+<head><meta charset="utf-8"/><meta name="viewport"content="width=device-width,initial-scale=1"/>
+<script>
+cunction even1onclick(){    doucument.getElenmentByld("id_1").innerHTML
+="<mark></mark><br/><i></i><br/>";}
+="<mark></mark><br/><i></i><br/>";}
+="<mark></mark><br/><i></i><br/>";}
+="<mark></mark><br/><i></i><br/>";}
+</script>
+<title></title>
+</head>
+<body>
+<h4></h4>
+<p onclick="event1onclick()">1</p><p onclick="event2onclick()">2</p><p onclick="event3onclick()">3</p>
+<p onclick="event1onclick()">4</p><p id -"id_1></p>
+</body></html>
